@@ -95,7 +95,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+		//uint16_t check = HAL_GPIO_ReadPin(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
